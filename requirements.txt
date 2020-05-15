@@ -1,0 +1,11 @@
+
+pip
+  plotly
+  pandas
+  beautifulsoup4
+  flask
+  Flask-SQLAlchemy
+  requests
+  
+conda
+  PyYAML

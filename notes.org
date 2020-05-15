@@ -1,0 +1,18 @@
+
+* data and correlated assets
+
+* technical indicators
+
+** MA (moving average)
+
+ - A moving average takes the previous n days of values, and averages it. This has the effect
+   of softening volatility to illustrate trends in an investment. Larger MA's have a delay
+   before they capture trends in the market
+
+** EMA (exponential moving average)
+
+ - exponential value of MA
+ - reacts more significantly to recent price changes, rather than MA
+
+
+ 
